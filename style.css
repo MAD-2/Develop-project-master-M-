@@ -1,7 +1,12 @@
-nav{
+.navbar{
     width: 100%;
     background: white;
-    overflow: auto;
+    overflow: hidden;
+    height: 70px;
+    
+}
+.logo{
+    width: 60px;
 }
 ul{
     padding: 0;
@@ -10,5 +15,17 @@ ul{
 }
 li{
     float: right;
-    
+
+}
+.menu{
+    float: right;
+}
+.menu li{
+    float: left;
+    width: 120px;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    list-style: none;
+
 }
