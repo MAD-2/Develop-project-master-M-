@@ -1,9 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .navbar{
     width: 100%;
     background: white;
     overflow: hidden;
     height: 70px;
     
+}
+.container{
+    width: 90px;
+    margin: 0 auto;
 }
 .logo{
     width: 60px;
@@ -27,5 +35,6 @@ li{
     line-height: 70px;
     text-align: center;
     list-style: none;
+    text-transform: capitalize;
 
 }
