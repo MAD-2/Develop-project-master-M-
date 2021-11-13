@@ -22,7 +22,8 @@ header{
 }
 
 .logo{
-    width: 20px;
+    width: 10px;
+    float: left;
 }
 ul{
     padding: 0;
