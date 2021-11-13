@@ -41,10 +41,10 @@ padding: 10px;
 color: white;
 
 }
-header-text{
+.text{
     float: left;
     
 }
-header img{ 
-    float: right;
+ .img{ 
+    float:right;
 }
