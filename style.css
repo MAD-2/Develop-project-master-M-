@@ -42,17 +42,17 @@ header{
     color: white;
 
 }
-header-text{
+.header-text{
     justify-content: start;
     float: left;
     font-size: 40px;
     
 }
- header-img{ 
+ .header-img{ 
     justify-content:left;
     float:right;
 }
-button{
+.button{
     padding: 10px 45px;
     text-align: center;
     font-size: 26px;
@@ -63,7 +63,7 @@ button{
     border: 2px solid #ffe101;
 
 }
-services-h1{
+.services-h1{
 color:#00a69c;
 text-align: center;
 
@@ -74,7 +74,7 @@ card{
     
 
 }
-img-services{
+.img-services{
     display: flex;
     margin: 15px;
 }
