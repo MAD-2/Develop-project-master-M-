@@ -52,7 +52,10 @@ text{
     float:right;
 }
 button{
-    padding: 10px 25px;
+    padding: 10px 45px;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 800;
     color: #00a69c;
     background: #ffe101;
     border-radius: 15px;
