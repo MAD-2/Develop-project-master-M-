@@ -12,10 +12,7 @@ body{
     margin: auto;
     overflow: hidden;
 }
-ul{
-    margin: 0;
-    padding: 0;
-}
+
 header{
     background:white;
     color:#0c1753 ;
@@ -28,7 +25,7 @@ header{
     margin: 0 auto;
 }
 .logo{
-    width: 60px;
+    width: 20px;
 }
 ul{
     padding: 0;
