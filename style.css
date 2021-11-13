@@ -18,11 +18,7 @@ header{
     width: 10px;
     float: left;
 }
-ul{
-    padding: 0;
-    margin: 0 0 0 150;
-    list-style: none;
-}
+
 li{
     float: right;
 
