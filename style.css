@@ -45,6 +45,7 @@ header{
 header-text{
     justify-content: start;
     float: left;
+    font-size: 40px;
     
 }
  header-img{ 
@@ -68,5 +69,12 @@ text-align: center;
 
 }
 card{
+    display: flex;
+    padding: 10px 15px;
+    
 
+}
+img-services{
+    display: flex;
+    margin: 15px;
 }
