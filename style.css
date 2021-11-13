@@ -1,13 +1,17 @@
-*{
-    margin: 0;
-    padding: 0;
-}
+
 .navbar{
     width: 100%;
     background: white;
     overflow: hidden;
     height: 70px;
     
+}
+header{
+    background:white;
+    color:#0c1753 ;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: white 5px solid;
 }
 .container{
     width: 90px;
