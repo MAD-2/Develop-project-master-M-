@@ -1,15 +1,18 @@
-
+nav{
+    padding: 70px;
+}
 .container{
     width: 80%;
-    margin: auto;
+    padding:0;
+    margin:auto;
     overflow: hidden;
     justify-content: space-evenly;
 }
 
-header{
+nav{
     background:white;
     color:#0c1753 ;
-    padding-top: 30px;
+    padding-top: 8px;
     min-height: 70px;
     border-bottom: white;
 }
@@ -33,4 +36,14 @@ header{
     color:#0c1753 ;
     padding: 0 20px 20px;
   font-weight: 900;
+}
+header{
+    background: #9375ff;
+
+}
+header-text{
+    float: left;
+}
+header-img{
+    size: ;
 }
