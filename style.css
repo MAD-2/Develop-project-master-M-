@@ -42,16 +42,16 @@ header{
     color: white;
 
 }
-.text{
+text{
     justify-content: start;
     float: left;
     
 }
- .img{ 
+ img{ 
     justify-content:left;
     float:right;
 }
-.button{
+button{
     color: ffe101;
 
 }
