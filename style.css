@@ -7,6 +7,15 @@ body{
     direction: rtl;
       
 }
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
 header{
     background:white;
     color:#0c1753 ;
