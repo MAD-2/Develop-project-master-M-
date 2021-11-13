@@ -53,9 +53,9 @@ header{
     float:right;
 }
 .button{
-    padding: 10px 45px;
+    padding: 10px 30px;
     text-align: center;
-    font-size: 26px;
+    font-size: 25px;
     font-weight: 800;
     color: #00a69c;
     background: #ffe101;
@@ -68,7 +68,7 @@ color:#00a69c;
 text-align: center;
 
 }
-card{
+.card{
     display: flex;
     padding: 10px 15px;
     
