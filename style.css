@@ -19,15 +19,12 @@ header{
     float: left;
 }
 
-li{
-    float: right;
 
-}
-.menu{
+.menu ul{
     float: right;
 }
 .menu li{
-    float: left;
+    float: right;
     width: 120px;
     height: 70px;
     line-height: 70px;
