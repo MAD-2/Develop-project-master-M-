@@ -2,7 +2,7 @@ nav{
     padding: 70px;
 }
 .container{
-    width: 80%;
+    width: 100%;
     padding:0;
     margin:auto;
     overflow: hidden;
@@ -39,11 +39,12 @@ nav{
 }
 header{
     background: #9375ff;
+padding: 10px;
 
 }
 header-text{
     float: left;
 }
 header-img{
-    size: ;
+    size: 9px; 
 }
