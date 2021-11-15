@@ -8,6 +8,7 @@
 }
 
 nav{
+    display: flex;
     background:white;
     color:#0c1753 ;
     padding-top: 8px;
