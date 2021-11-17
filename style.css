@@ -38,7 +38,7 @@ nav{
 }
 header{
     display: flex;
-    background: #9375ff;
+    background:linear-gradient(#777CA1 , #BDADFB);
     padding: 10px;
     color: white;
 
