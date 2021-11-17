@@ -51,6 +51,7 @@ header{
     
 }
  .header-img{ 
+     max-width: 50;
     justify-content:left;
     float:right;
 }
