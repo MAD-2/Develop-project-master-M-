@@ -39,8 +39,9 @@ nav{
 header{
     display: flex;
     background:linear-gradient(#777CA1 , #BDADFB);
-    padding: 10px;
-    color: white;
+    padding: 100px;
+    align-items: center;
+    justify-content: space-between;
 
 }
 .header-text{
