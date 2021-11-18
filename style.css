@@ -88,6 +88,9 @@ header {
     width: 60%;
     margin: 12%;
   }
+  .about-us{
+    display: flex;
+  }
 
   #contact {
     height: auto;
