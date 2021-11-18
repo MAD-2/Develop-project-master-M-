@@ -25,7 +25,7 @@ nav{
     max-width: 100px;
 }
 
-header {
+header-text {
     background: linear-gradient(#777CA1, #BDADFB);
     display: flex;
     align-items: center;
