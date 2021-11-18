@@ -11,17 +11,17 @@ nav{
     justify-content:space-between;
     align-items: center;
 }
-.nav-links{
+.menu-links{
     display: flex;
     justify-content: space-between;
     align-items: center;
     list-style: none;
 }
-.nav-links li a {
+.menu-links li a {
     text-decoration: none;
     padding: 5px 15px;
 }
-.logo img{
+.logo{
     max-width: 100px;
 }
 
