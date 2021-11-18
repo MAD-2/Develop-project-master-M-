@@ -89,7 +89,7 @@ header {
     margin: 12%;
   }
   #about-us{
-    display: flex;
+    display:grid;
   }
   .img-about-us{
     max-width: 40em;
