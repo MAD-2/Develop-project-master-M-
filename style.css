@@ -91,6 +91,9 @@ header {
   #about-us{
     display: flex;
   }
+  .img-about-us{
+    max-width: 40em;
+  }
 
   #contact {
     height: auto;
